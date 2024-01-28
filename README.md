@@ -36,4 +36,4 @@ Node.js
 
 ## 资源
 - 官网：[点击这里](https://eloquentjavascript.net)
-- 官网：[点击这里](https://eloquentjavascript.net)
+- 答案：[点击这里](https://eloquentjavascript.net/code/)
