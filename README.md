@@ -1,6 +1,6 @@
-# Eloquent JavaScript Exercises and Projects
+# 《Eloquent JavaScript》编程练习 & 学习笔记
 
-这个代码仓库用于存放学习《Eloquent JavaScript》完成的编程练习和学习笔记。
+这个代码仓库用于存放学习《Eloquent JavaScript》完成的编程练习和学习笔记。您可通过下方导航链接按主题进入本仓库的各个文件夹。
 
 ## 导航
 
