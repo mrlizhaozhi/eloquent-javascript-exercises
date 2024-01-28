@@ -6,15 +6,15 @@
 
 编程基础
 - 第01章：Values, Types, and Operators
-- 第02章：[Program Structure]()
-- 第03章：[Functions]()
-- 第04章：[Data Structures]()
-- 第05章：[Higher-order Functions]()
-- 第06章：[The Secret Life of Objects]()
-- 第08章：[Bugs and Errors]()
+- 第02章：[Program Structure](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2002)
+- 第03章：[Functions](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2003)
+- 第04章：[Data Structures](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2004)
+- 第05章：[Higher-order Functions](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2005)
+- 第06章：[The Secret Life of Objects](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2006)
+- 第08章：[Bugs and Errors](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2008)
 - 第09章：Regular Expressions
-- 第10章：[Modules]()
-- 第11章：[Asynchronous Programming]()
+- 第10章：[Modules](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2010)
+- 第11章：[Asynchronous Programming](https://github.com/mrlizhaozhi/eloquent-javascript-exercises/tree/main/Chapter%2011)
 
 HTTP协议
 - 第13章：[]()
